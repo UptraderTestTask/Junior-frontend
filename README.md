@@ -13,6 +13,8 @@
 
 - Create-react-app и все библиотеки с ним связанные
 
+- react-router-dom
+
 - typescript или prop-types будет плюсом
 
 - react-helmet
